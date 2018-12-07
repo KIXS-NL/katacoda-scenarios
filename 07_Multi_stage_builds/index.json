@@ -8,7 +8,7 @@
     "steps": [{
       "title": "7.1 Voorbeeld applicatie",
       "text": "7.1_opdracht.md",
-      "courseData": "delete-images.sh"
+      "courseData": "pre-configure.sh"
     },
     {
       "title": "7.2 Eigen Dockerfile 1/2",
@@ -22,15 +22,7 @@
     },
     "finish":{
       "text": "finish.md"
-    },
-    "assets": { 
-      "client": [
-          {
-            "file": "*", 
-            "target": "/root/app"
-          }
-        ] 
-      }
+    }
   },
   "files": [
     "Dockerfile"
