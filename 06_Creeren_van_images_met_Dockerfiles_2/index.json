@@ -36,13 +36,12 @@
     },
     "assets": { 
       "client": [
-          {"file": "index.html", "target": "/"}
+          {"file": "index.html", "target": "/home/scrapbook/"}
         ] 
       }
   },
   "files": [
-    "Dockerfile",
-    "index.html"
+    "Dockerfile"
   ],
   "environment": {
     "uilayout": "editor-terminal",
