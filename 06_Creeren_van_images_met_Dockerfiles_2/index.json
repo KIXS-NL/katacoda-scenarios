@@ -36,7 +36,10 @@
     },
     "assets": { 
       "client": [
-          {"file": "index.html", "target": "/home/scrapbook/"}
+          {
+            "file": "index.html", 
+            "target": "~/"
+          }
         ] 
       }
   },
