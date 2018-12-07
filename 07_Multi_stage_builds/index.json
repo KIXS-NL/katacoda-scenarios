@@ -6,14 +6,20 @@
   "authenticated": false,
   "details": {
     "steps": [{
-      "title": "7.1 Voorbeeld applicatie",
+      "title": "7.1 De app",
       "text": "7.1_opdracht.md",
       "courseData": "pre-configure.sh"
     },
     {
-      "title": "7.2 Eigen Dockerfile 1/2",
+      "title": "7.2 Single-stage",
       "text": "7.2_opdracht.md",
       "answer": "7.2_answer.md",
+      "code": "pre-step.sh"
+    },
+    {
+      "title": "7.3 Multi-stage",
+      "text": "7.3_opdracht.md",
+      "answer": "7.3_answer.md",
       "code": "pre-step.sh"
     }],
     "intro": {
