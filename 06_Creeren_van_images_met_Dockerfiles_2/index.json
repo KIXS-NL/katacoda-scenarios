@@ -6,18 +6,25 @@
   "authenticated": false,
   "details": {
     "steps": [{
-      "title": "6.1 Maken van een Dockerfile",
+      "title": "6.1 Containers ontsluiten",
       "text": "6.1_opdracht.md",
       "courseData": "delete-images.sh"
     },
     {
-      "title": "6.2 Combineren van standaard commando's en opties",
+      "title": "6.2 Eigen Dockerfile 1/2",
       "text": "6.2_opdracht.md",
+      "answer": "6.2_answer.md",
       "code": "pre-step.sh"
     },
     {
-      "title": "6.3 Image geschiedenis",
+      "title": "6.3 Eigen Dockerfile 2/2",
       "text": "6.3_opdracht.md",
+      "answer": "6.3_answer.md",
+      "code": "pre-step.sh"
+    },
+    {
+      "title": "6.4 Image builden en starten",
+      "text": "6.4_opdracht.md",
       "code": "pre-step.sh"
     }],
     "intro": {
@@ -26,10 +33,16 @@
     },
     "finish":{
       "text": "finish.md"
-    }
+    },
+    "assets": { 
+      "client": [
+          {"file": "index.html", "target": "/"}
+        ] 
+      }
   },
   "files": [
-    "Dockerfile"
+    "Dockerfile",
+    "index.html"
   ],
   "environment": {
     "uilayout": "editor-terminal",
@@ -37,7 +50,7 @@
     "uisettings": "dockerfile",
     "showdashboard": true,
       "dashboards": [
-        {"name": "Nginx webserver", "port": 11337}
+        {"name": "Nginx webserver", "port": 1337}
       ]
     },
   "backend": {
