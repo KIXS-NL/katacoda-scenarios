@@ -27,7 +27,7 @@
       "client": [
           {
             "file": "*", 
-            "target": "~/"
+            "target": "/root/app"
           }
         ] 
       }
