@@ -34,8 +34,12 @@
   "environment": {
     "uilayout": "editor-terminal",
     "icon": "fa-docker",
-    "uisettings": "dockerfile"
-  },
+    "uisettings": "dockerfile",
+    "showdashboard": true,
+      "dashboards": [
+        {"name": "Nginx webserver", "port": 1337}
+      ]
+    },
   "backend": {
     "imageid": "docker"
   }
