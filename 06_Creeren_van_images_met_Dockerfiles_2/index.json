@@ -25,6 +25,7 @@
     {
       "title": "6.4 Image builden en starten",
       "text": "6.4_opdracht.md",
+      "answer": "6.4_answer.md",
       "code": "pre-step.sh"
     }],
     "intro": {
