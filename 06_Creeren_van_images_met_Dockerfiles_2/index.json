@@ -37,7 +37,7 @@
     "uisettings": "dockerfile",
     "showdashboard": true,
       "dashboards": [
-        {"name": "Nginx webserver", "port": 1337}
+        {"name": "Nginx webserver", "port": 11337}
       ]
     },
   "backend": {
