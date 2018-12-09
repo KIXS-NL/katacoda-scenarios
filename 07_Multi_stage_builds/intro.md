@@ -1,4 +1,4 @@
-In dit scenario ga je leren hoe je een geoptimaliseerde container bouwt met een ASP.NET Core applicatie er in. Hierbij ga je gebruik maken van het multi-stage build concept wat het mogelijk maakt om in een enkele Dockefile verschillende base images te gebruiken.
+In dit scenario ga je leren hoe je een geoptimaliseerde container bouwt met een ASP.NET Core applicatie er in. Hierbij ga je gebruik maken van het multi-stage build concept wat het mogelijk maakt om in een enkele Dockerfile verschillende base images te gebruiken.
 
 Hierdoor kun je de SDK gebruiken om binaries te bouwen maar deze weglaten in het definitieve product (je applicatie image).
 
