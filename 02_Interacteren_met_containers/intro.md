@@ -1,4 +1,4 @@
-Aan het einde van deze oefening knu je het volgende:
+Aan het einde van deze oefening kun je het volgende:
 
 * Starten van een interactieve shell in een nieuwe of draaiende container;
 * Starten van een neven proces in een draaiende container;
