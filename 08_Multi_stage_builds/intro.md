@@ -4,6 +4,6 @@ Hierdoor kun je de SDK gebruiken om binaries te bouwen maar deze weglaten in het
 
 Aan het einde van deze oefening kan je het volgende:
 
-* Het schrijven van een mulit-stage `Dockerfile` met eigen applicatie;
+* Het schrijven van een multi-stage `Dockerfile` met eigen applicatie;
 * De `COPY --from` optie gebruiken om artifacts uit een ander deel van de build te gebruiken;
 
