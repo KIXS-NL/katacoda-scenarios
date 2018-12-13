@@ -1,0 +1,18 @@
+{
+    "title": "Docker Workshop (Beginner)",
+    "description": "",
+    "courses": [
+      {
+        "pathway_id": "kixs",
+        "course_id": "01_Containers_starten_en_inspecteren",
+        "id": "01_Containers_starten_en_inspecteren",
+        "title": "Lab 1: Containers starten en inspecteren"
+      },
+      {
+        "pathway_id": "kixs",
+        "course_id": "02_interacteren_met_containers",
+        "id": "02_interacteren_met_containers",
+        "title": "Lab 2: Interacteren met containers"
+      }
+    ]
+  }
