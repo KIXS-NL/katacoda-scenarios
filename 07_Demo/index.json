@@ -1,13 +1,13 @@
 {
-  "title": "6. Demo",
+  "title": "7. Demo",
   "description": "",
   "difficulty": "beginner",
   "time": "15 minuten",
   "authenticated": false,
   "details": {
     "steps": [{
-      "title": "6.1 Demo",
-      "text": "6.1_opdracht.md",
+      "title": "7.1 Demo",
+      "text": "7.1_opdracht.md",
       "courseData": "delete-images.sh"
     }],
     "intro": {
