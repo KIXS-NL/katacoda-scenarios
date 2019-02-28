@@ -6,9 +6,17 @@
   "authenticated": false,
   "details": {
     "steps": [{
-      "title": "Time to play around",
-      "text": "k3s_playground.md"
+      "title": "This shouldn’t take long...",
+      "text": "k3s_playground.md",
+      "code": "script.sh"
     }]
+  },
+  "intro": {
+    "text": "intro.md",
+    "credits": "https://k3s.io/"
+  },
+  "finish":{
+    "text": "finish.md"
   },
   "environment": {
     "uilayout": "terminal"
