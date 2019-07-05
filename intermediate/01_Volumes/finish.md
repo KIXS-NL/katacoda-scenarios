@@ -1,1 +1,1 @@
-In deze oefening heb je je eerste container gestart middels `docker container run`, en heb je met het commando `docker container ls -a` een lijst kunnen maken van gestarte en gestopte containers.
+In deze oefening heb je geleerd hoe je data persistent kan opslaan binnen containers en hoe je hiervoor Volumes kunt gebruiken. Daarnaast heb je geoefend met het delen van data tussen containers.

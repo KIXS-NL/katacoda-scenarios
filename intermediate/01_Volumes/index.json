@@ -7,7 +7,8 @@
   "details": {
     "steps": [{
       "title": "1.1 Named volumes",
-      "text": "1.1_opdracht.md"
+      "text": "1.1_opdracht.md",
+      "courseData": "clear-images.sh"
     },
     {
       "title": " 1.2 Hostpath volumes",
