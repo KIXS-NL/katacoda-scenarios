@@ -1,0 +1,11 @@
+{
+    "title": "Docker beginner",
+    "description": "Dutch docker beginner pathway",
+    "icon": "fa-docker",
+    "courses": [
+      {
+        "course_id": "01_Containers_starten_en_inspecteren",
+        "title": "1. Containers starten en inspecteren"
+      }
+    ]
+  }
