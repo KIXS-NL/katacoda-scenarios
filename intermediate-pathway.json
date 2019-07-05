@@ -1,0 +1,11 @@
+{
+    "title": "Docker intermediate",
+    "description": "Dutch docker intermediate pathway",
+    "icon": "fa-docker",
+    "courses": [
+      {
+        "course_id": "01_Volumes",
+        "title": "1. Volumes"
+      }
+    ]
+  }
