@@ -27,6 +27,6 @@
     "uisettings": "dockerfile"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "ubuntu"
   }
 }

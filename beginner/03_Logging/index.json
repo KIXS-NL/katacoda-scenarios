@@ -30,6 +30,6 @@
     "icon": "fa-docker"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "ubuntu"
   }
 }
