@@ -1,6 +1,6 @@
 Aan het einde van deze oefening kun je het volgende:
 
-* Volumes aanmaken
-* Volumes koppelen aan containers
-* Volumes beheren
-* Data delen tussen containers
+* Docker netwerken inspecteren
+* Eigen netwerken definieeren
+* Containers aan netwerken koppelen
+* Containers 'vindbaar' maken via DNS resolving
