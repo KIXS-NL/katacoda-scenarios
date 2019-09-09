@@ -42,7 +42,7 @@
       "text": "finish.md"
     },
     "assets": {
-      "client": [
+      "host01": [
         {
           "file": "hello-git.py",
           "target": "~/"
