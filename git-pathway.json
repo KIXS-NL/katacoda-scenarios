@@ -1,7 +1,6 @@
 {
-    "title": "Docker intermediate",
-    "description": "Dutch docker intermediate pathway",
-    "icon": "fa-docker",
+    "title": "Git fundamentals",
+    "description": "Dutch git fundamentals pathway",
     "courses": [
       {
         "course_id": "01_Volumes",
