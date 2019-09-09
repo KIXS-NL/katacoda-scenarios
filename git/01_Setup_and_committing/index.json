@@ -8,8 +8,7 @@
     "steps": [{
       "title": "1.1 Setup git",
       "text": "1.1_opdracht.md",
-      "courseData": "courseBase.sh",
-      "code":"enterDir.sh"
+      "code":"courseBase.sh"
     },
     {
       "title": " 1.2 Git init",
