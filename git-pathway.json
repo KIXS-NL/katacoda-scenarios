@@ -3,12 +3,8 @@
     "description": "Dutch git fundamentals pathway",
     "courses": [
       {
-        "course_id": "01_Volumes",
-        "title": "1. Volumes"
-      },
-      {
-        "course_id": "01_Volumes",
-        "title": "1. Networking"
+        "course_id": "01_Setup_and_committing",
+        "title": "1. Setup & Committing"
       }
     ]
   }
