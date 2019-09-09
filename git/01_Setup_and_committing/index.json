@@ -7,7 +7,8 @@
   "details": {
     "steps": [{
       "title": "1.1 Setup git",
-      "text": "1.1_opdracht.md"
+      "text": "1.1_opdracht.md",
+      "courseData": "courseBase.sh"
     },
     {
       "title": " 1.2 Git init",
@@ -36,7 +37,6 @@
     }],
     "intro": {
       "text": "intro.md",
-      "courseData": "courseBase.sh",
       "credits": ""
     },
     "finish":{
