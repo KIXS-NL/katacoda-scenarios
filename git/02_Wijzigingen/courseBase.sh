@@ -12,4 +12,6 @@ clear
 git add committed.py
 git commit -m "Eerste wijziging"
 
+echo "print('Extra wijziging')" >> committed.py
+
 clear
