@@ -1,5 +1,7 @@
 cd myproject
 
+wait 1
+
 clear
 
 git init
