@@ -1,6 +1,6 @@
-cd myproject
+sleep 1
 
-wait 1
+cd myproject
 
 clear
 
