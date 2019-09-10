@@ -6,32 +6,32 @@
   "authenticated": false,
   "details": {
     "steps": [{
-      "title": "2.1 Setup git",
+      "title": "2.1 Status",
       "text": "2.1_opdracht.md",
       "code":"courseBase.sh"
     },
     {
-      "title": " 2.2 Git init",
+      "title": " 2.2 Diff",
       "text": "2.2_opdracht.md",
       "code": "pre-step.sh"
     },
     {
-      "title": " 2.3 Git status",
+      "title": " 2.3 Add",
       "text": "2.3_opdracht.md",
       "code": "pre-step.sh"
     },
     {
-      "title": " 2.4 Git add",
+      "title": " 2.4 Diff staged",
       "text": "2.4_opdracht.md",
       "code": "pre-step.sh"
     },
     {
-      "title": " 2.5 Git commit",
+      "title": " 2.5 Log",
       "text": "2.5_opdracht.md",
       "code": "pre-step.sh"
     },
     {
-      "title": " 2.6 Git ignore",
+      "title": " 2.6 Show",
       "text": "2.6_opdracht.md",
       "code": "pre-step.sh"
     }],
@@ -56,9 +56,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
-    "icon": "fa-docker",
-    "uisettings": "dockerfile"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "ubuntu"

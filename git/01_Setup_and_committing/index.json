@@ -53,9 +53,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
-    "icon": "fa-docker",
-    "uisettings": "dockerfile"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "ubuntu"
