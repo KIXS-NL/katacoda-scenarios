@@ -31,7 +31,8 @@
     {
       "title": " 3.5 Fetch",
       "text": "3.5_opdracht.md",
-      "code": "pre-step.sh"
+      "code": "pre-step.sh",
+      "courseData": "updateRepo2.sh"
     }],
     "intro": {
       "text": "intro.md",
