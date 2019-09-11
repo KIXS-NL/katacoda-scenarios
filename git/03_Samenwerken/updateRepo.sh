@@ -5,7 +5,7 @@ cd /root/myproject2
 git config --global user.name "Meneer de Uil"
 git config --global user.email uil@fabeltjeskrant.com
 
-echo >> "print('extra regel')" >> committed.py
+echo "print('extra regel')" >> committed.py
 
 git add .
 git commit -m "Bugfix door Uil" .
