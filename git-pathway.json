@@ -4,7 +4,7 @@
     "courses": [
       {
         "course_id": "01_Setup_and_committing",
-        "title": "1. Setup & Committing"
+        "title": "1. Setup & Committen"
       },
       {
         "course_id": "02_Wijzigingen",
@@ -13,6 +13,10 @@
       {
         "course_id": "03_Samenwerken",
         "title": "3. Samenwerken"
+      },
+      {
+        "course_id": "04_Ongedaan maken",
+        "title": "4. Ongedaan maken"
       }
     ]
   }
