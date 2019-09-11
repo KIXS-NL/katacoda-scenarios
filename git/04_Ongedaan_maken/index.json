@@ -8,7 +8,8 @@
     "steps": [{
       "title": "4.1 Checkout",
       "text": "4.1_opdracht.md",
-      "courseData": "setup.sh"
+      "courseData": "setup.sh",
+      "code": "pre-step.sh"
     },
     {
       "title": " 4.2 Reset",
