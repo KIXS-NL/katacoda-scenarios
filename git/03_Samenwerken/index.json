@@ -20,7 +20,8 @@
     {
       "title": " 3.3 Pull",
       "text": "3.3_opdracht.md",
-      "code": "pre-step.sh"
+      "code": "pre-step.sh",
+      "courseData": "updateRepo.sh"
     },
     {
       "title": " 3.4 Log",
