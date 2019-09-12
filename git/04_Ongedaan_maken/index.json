@@ -13,19 +13,17 @@
     },
     {
       "title": " 4.2 Reset",
-      "text": "4.2_opdracht.md"
+      "text": "4.2_opdracht.md",
+      "courseData": "pre4.2.sh"
     },
     {
       "title": " 4.3 Reset Hard",
-      "text": "4.3_opdracht.md"
+      "text": "4.3_opdracht.md",
+      "courseData": "pre4.2.sh"
     },
     {
       "title": " 4.4 Revert",
       "text": "4.4_opdracht.md"    
-    },
-    {
-      "title": " 4.5 Revert",
-      "text": "4.5_opdracht.md"
     }],
     "intro": {
       "text": "intro.md",
