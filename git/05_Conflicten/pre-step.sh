@@ -1,2 +1,1 @@
-cd /root/myproject
-ls -la
+mkdir -p /root/myproject && cd /root/myproject && ls -la
