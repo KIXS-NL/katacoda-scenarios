@@ -1,3 +1,5 @@
+cd /root/myproject
+
 echo "print('Pietjes wijziging!)'" > committed.py
 
 # Make  commit
