@@ -1,4 +1,4 @@
-mkdir -p root/myproject
+mkdir -p /root/myproject
 cd /root/myproject
 
 git init
