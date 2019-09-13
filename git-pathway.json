@@ -21,6 +21,10 @@
       {
         "course_id": "05_Conflicten",
         "title": "5. Conflicten"
+      },
+      {
+        "course_id": "06_Branches",
+        "title": "6. Branches"
       }
     ]
   }
