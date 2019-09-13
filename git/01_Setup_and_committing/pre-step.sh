@@ -1,1 +1,2 @@
+cd /root/myproject
 clear

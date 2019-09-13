@@ -1,4 +1,2 @@
-mkdir myproject
-mv hello-git.py myproject/
-cd myproject
-clear
+mkdir -p root/myproject
+cd /root/myproject
