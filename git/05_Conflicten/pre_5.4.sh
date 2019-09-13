@@ -9,6 +9,7 @@ git config --global user.email meneer@uil.com
 
 # Change a line
 echo "print('Deze regel is beter!)'" > newFile.py
+git add .
 git commit -m "Nieuw bestand" .
 
 # Push this change
