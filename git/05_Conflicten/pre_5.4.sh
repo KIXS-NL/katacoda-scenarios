@@ -1,6 +1,7 @@
 # ---- Uil
 
 # Now copy the repo and make a change as a different user
+rm -rf /root/myproject2
 cp -pfr /root/myproject /root/myproject2
 cd /root/myproject2
 
