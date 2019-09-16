@@ -22,3 +22,7 @@ git commit -m "Eerste bestand" .
 
 # Push it
 git push -u origin master
+
+# Cleanup
+cd /root/
+rm -rf /root/myproject

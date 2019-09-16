@@ -6,10 +6,14 @@
   "authenticated": false,
   "details": {
     "steps": [{
-      "title": "6.1 Branch",
-      "text": "6.1_opdracht.md",
+      "title": "6.0 Clone",
+      "text": "6.0_opdracht.md",
       "courseData": "setup.sh",
       "code": "pre-step.sh"
+    },
+    {
+      "title": "6.1 Branch",
+      "text": "6.1_opdracht.md"
     },
     {
       "title": " 6.2 List branches",
