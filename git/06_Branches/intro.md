@@ -2,6 +2,7 @@ Het is al eerder ter sprake gekomen maar nu gaan we er echt mee aan de slag; Bra
 
 Aan het einde van deze oefening kun je het volgende:
 
+* Een repository clonen
 * Branches aanmaken
 * Experimenteren in branches 
 * Branches mergen
