@@ -1,1 +1,1 @@
-ls -l
+sleep 1 && clear && ls -l
