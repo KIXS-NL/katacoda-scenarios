@@ -10,6 +10,10 @@
       {
         "course_id": "02_Networking",
         "title": "2. Networking"
+      },
+      {
+        "course_id": "03_Environment_variables",
+        "title": "3. Environment Variables"
       }
     ]
   }
