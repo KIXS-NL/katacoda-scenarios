@@ -1,6 +1,6 @@
 ## Definities en theorie
 
-Deze course gaat over omgevingsvariabelen, of in het Engels, environment variables. Hieronder volgt eerst een uitleg over deze variabelen en waarom je ze zou moeten gebruiken. Deze informatie is gebaseerd op [dit](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa) zeer nuttige artikel hierover.
+Deze course gaat over omgeving svariabelen, of in het Engels, environment variables. Hieronder volgt eerst een uitleg over deze variabelen en waarom je ze zou moeten gebruiken. Deze informatie is gebaseerd op [dit](https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa) zeer nuttige artikel hierover.
 
 **Omgevings variabelen**
 
@@ -14,7 +14,7 @@ Een omgevings variabele is een variabele waarvan de waarde buiten een programma 
 
 Deze omgevings variabelen maken het mogelijk om configuratie van applicatie te scheiden en applicaties anders te laten functioneren op basis van de omgeving waar ze op draaien en de waarde van de variabelen die al daar gezet zijn. 
 
-In de beginner workshop hebben we geleerd dat containers gevirtualiseerde applicatie(deeltjes) zijn. Omgevingsvariabelen zijn dus de manier om containers van variabelen te voorzien.
+In de beginner workshop hebben we geleerd dat containers gevirtualiseerde applicatie(deeltjes) zijn. Omgevings variabelen zijn dus de manier om containers van variabelen te voorzien. Denk hierbij aan bijv. database credentials, accounts, urls, modussen (productie, test, demo, etc).
 
 ## Overzicht
 
