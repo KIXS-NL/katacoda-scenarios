@@ -1,6 +1,6 @@
 Aan het einde van deze oefening kun je het volgende:
 
-* Volumes aanmaken
-* Volumes koppelen aan containers
-* Volumes beheren
-* Data delen tussen containers
+* Het standaard Docker netwerk gedrag begrijpen
+* Containers aan het *default* netwerk toevoegen
+* Eigen netwerken aanmaken
+* Containers elkaar laten *vinden* binnen netwerken
