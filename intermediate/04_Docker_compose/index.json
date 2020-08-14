@@ -30,11 +30,7 @@
     "assets": { 
       "client": [
           {
-            "file": "docker-compose.yml", 
-            "target": "~/"
-          },
-          {
-            "file": "haproxy.cfg", 
+            "file": "*", 
             "target": "~/"
           }
         ] 
