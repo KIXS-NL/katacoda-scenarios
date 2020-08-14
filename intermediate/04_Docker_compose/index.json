@@ -6,17 +6,17 @@
   "authenticated": false,
   "details": {
     "steps": [{
-      "title": "4.1 Docker-compose file",
+      "title": "4.1 Een compose app starten",
       "text": "4.1_opdracht.md",
       "courseData": "clear-images.sh"
     },
     {
-      "title": " 4.2 Een compose app starten",
+      "title": " 4.2 Een compose app schalen",
       "text": "4.2_opdracht.md",
       "code": "pre-step.sh"
     },
     {
-      "title": " 4.3 Een compose app schalen",
+      "title": " 4.3 Een compose app opruimen",
       "text": "4.3_opdracht.md",
       "code": "pre-step.sh"
     }],
