@@ -19,8 +19,6 @@ services:
      image: wordpress:latest
      depends_on:
        - mysql
-     ports:
-       - "80:80"
      restart: always
      networks: 
        - wordpress
@@ -29,6 +27,18 @@ services:
        WORDPRESS_DB_USER: wordpress
        WORDPRESS_DB_PASSWORD: wordpress
        WORDPRESS_DB_NAME: wordpress
+    
+   loadbalancer:
+     image: haproxy:1.7
+     depends_on:
+       - wordpress
+     ports:
+       - "80:80"
+     volumes:
+       - ./haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro
+     restart: always
+     networks: 
+       - wordpress
 
 networks:
     wordpress:

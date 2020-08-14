@@ -32,6 +32,10 @@
           {
             "file": "docker-compose.yml", 
             "target": "~/"
+          },
+          {
+            "file": "haproxy.cfg", 
+            "target": "~/"
           }
         ] 
       }
