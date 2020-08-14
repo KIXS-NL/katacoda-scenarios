@@ -14,6 +14,10 @@
       {
         "course_id": "03_Environment_variables",
         "title": "3. Environment Variables"
+      },
+      {
+        "course_id": "04_Docker_compose",
+        "title": "3. Docker Compose"
       }
     ]
   }

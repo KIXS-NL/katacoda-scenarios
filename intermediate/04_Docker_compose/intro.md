@@ -1,6 +1,1 @@
-Aan het einde van deze oefening kun je het volgende:
-
-* Het standaard Docker netwerk gedrag begrijpen
-* Containers aan het *default* netwerk toevoegen
-* Eigen netwerken aanmaken
-* Containers elkaar laten *vinden* binnen netwerken
+Docker-compose (of compose) is een tool die het mogelijk maakt om Docker apps bestaande uit meerdere containers te draaien. Tot nu toe hebben we steeds maar 1 container gestart, met compose is het mogelijk om een set van services integraal te configureren en starten met behulp van 1 configuratie bestand.
