@@ -1,1 +1,1 @@
-In deze oefening heb je geleerd hoe je data persistent kan opslaan binnen containers en hoe je hiervoor Volumes kunt gebruiken. Daarnaast heb je geoefend met het delen van data tussen containers.
+In deze oefening heb je geleerd hoe je met omgevings variabelen containers en de applicaties er in kunt configureren. Daarnaast hoe je dynamisch Dockerfiles kunt aansturen met gebruik van ARG's en alvast default ENV's kunt zetten in Dockerfiles.

@@ -16,8 +16,13 @@
       "code": "pre-step.sh"
     },
     {
-      "title": " 3.3 ENV in Dockerfile",
+      "title": " 3.3 ARG in Dockerfile",
       "text": "3.3_opdracht.md",
+      "code": "pre-step.sh"
+    },
+    {
+      "title": " 3.4 ENV in Dockerfile",
+      "text": "3.4_opdracht.md",
       "code": "pre-step.sh"
     }],
     "intro": {
