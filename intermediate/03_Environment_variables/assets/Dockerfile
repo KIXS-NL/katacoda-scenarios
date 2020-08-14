@@ -5,4 +5,4 @@ ARG VERSION
 FROM debian:${VERSION:-9}
 
 # CMD welke de debian versie output
-CMD ["lsb_release", "-d"]
+CMD echo "We draaien Debian versie $(cat /etc/debian_version)!"
