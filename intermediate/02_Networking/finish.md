@@ -1,1 +1,1 @@
-In deze oefening heb je geleerd hoe je data persistent kan opslaan binnen containers en hoe je hiervoor Volumes kunt gebruiken. Daarnaast heb je geoefend met het delen van data tussen containers.
+In deze oefening heb je je verder verdiept in Docker networking. Hoe je netwerken kunt inspecteren, eigen netwerken kunt aanmaken, containers aan netwerken kan koppelen en hoe DNS resolving werkt.
