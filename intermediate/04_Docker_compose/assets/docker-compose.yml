@@ -2,18 +2,17 @@ version: '3.3'
 
 services:
 
-   mysql:
-     image: mysql:5.7
+   loadbalancer:
+     image: haproxy:1.7
+     depends_on:
+       - wordpress
+     ports:
+       - "80:80"
      volumes:
-       - db_data:/var/lib/mysql
+       - ./haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro
      restart: always
      networks: 
        - wordpress
-     environment:
-       MYSQL_ROOT_PASSWORD: supergeheim
-       MYSQL_DATABASE: wordpress
-       MYSQL_USER: wordpress
-       MYSQL_PASSWORD: wordpress
 
    wordpress:
      image: wordpress:latest
@@ -27,18 +26,19 @@ services:
        WORDPRESS_DB_USER: wordpress
        WORDPRESS_DB_PASSWORD: wordpress
        WORDPRESS_DB_NAME: wordpress
-    
-   loadbalancer:
-     image: haproxy:1.7
-     depends_on:
-       - wordpress
-     ports:
-       - "80:80"
+
+   mysql:
+     image: mysql:5.7
      volumes:
-       - ./haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro
+       - db_data:/var/lib/mysql
      restart: always
      networks: 
        - wordpress
+     environment:
+       MYSQL_ROOT_PASSWORD: supergeheim
+       MYSQL_DATABASE: wordpress
+       MYSQL_USER: wordpress
+       MYSQL_PASSWORD: wordpress
 
 networks:
     wordpress:
