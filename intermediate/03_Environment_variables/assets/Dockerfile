@@ -1,9 +1,9 @@
 
 # Definieer ARG VERSION
-ARG VERSION
+ARG VERSION=9
 
 # Gebruik VERSION of, indien niet gezet, de default '9'
-FROM debian:${VERSION:-9}
+FROM debian:$VERSION
 
 # Definieer een ENV variabele die on-runtime overschreven kan worden
 ENV NAAM=Pietje
