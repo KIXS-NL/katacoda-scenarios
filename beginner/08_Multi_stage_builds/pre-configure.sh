@@ -1,5 +1,6 @@
 git clone https://github.com/katacoda/dotnet-aspnet-core-example.git app
-rm Dockerfile Dockerfile.multi Makefile docker-compose.yml .dockerignore
+sleep 1
+rm app/Dockerfile app/Dockerfile.multi app/Makefile app/docker-compose.yml app/.dockerignore
 
 docker rmi -f $(docker images -aq)
 

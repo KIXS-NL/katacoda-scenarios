@@ -31,7 +31,7 @@
     }
   },
   "files": [
-    "Dockerfile"
+    "app/Dockerfile"
   ],
   "environment": {
     "uilayout": "editor-terminal",
