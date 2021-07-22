@@ -10,6 +10,17 @@
       "text": "7.0_opdracht.md",
       "courseData": "setup.sh",
       "code": "pre-step.sh"
+    },{
+      "title": "7.1 Origin toevoegen",
+      "text": "7.1_opdracht.md"
+    },{
+      "title": "7.2 Add, commit & push",
+      "text": "7.2_opdracht.md",
+      "answer": "7.2_antwoord.md"
+    },{
+      "title": "7.3 Feature branch",
+      "text": "7.3_opdracht.md",
+      "answer": "7.3_antwoord.md"
     }],
     "assets": {
       "host01": [
