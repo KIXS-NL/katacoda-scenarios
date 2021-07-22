@@ -1,0 +1,29 @@
+{
+  "title": "7. Platform & pull/merge requests (Bitbucket)",
+  "description": "",
+  "difficulty": "beginner",
+  "time": "10 minuten",
+  "authenticated": false,
+  "details": {
+    "steps": [{
+      "title": "7.0 Project aanmaken",
+      "text": "7.0_opdracht.md",
+      "courseData": "setup.sh",
+      "code": "pre-step.sh"
+    }],
+    "assets": {
+      "host01": [
+        {
+          "file": "code.py",
+          "target": "~/myproject"
+        }
+      ]
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
