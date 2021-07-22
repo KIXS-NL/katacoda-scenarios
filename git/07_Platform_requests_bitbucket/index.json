@@ -21,6 +21,12 @@
       "title": "7.3 Feature branch",
       "text": "7.3_opdracht.md",
       "answer": "7.3_antwoord.md"
+    },{
+      "title": "7.4 Pull request",
+      "text": "7.4_opdracht.md"
+    },{
+      "title": "7.5 Lokale repo updaten",
+      "text": "7.5_opdracht.md"
     }],
     "assets": {
       "host01": [
