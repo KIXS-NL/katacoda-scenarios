@@ -19,7 +19,8 @@
       "answer": "7.2_antwoord.md"
     },{
       "title": "7.3 Feature branch",
-      "text": "7.3_opdracht.md"
+      "text": "7.3_opdracht.md",
+      "answer": "7.3_antwoord.md"
     }],
     "assets": {
       "host01": [
