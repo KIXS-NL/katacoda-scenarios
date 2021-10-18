@@ -10,4 +10,4 @@ Aan het einde van deze oefening kun je het volgende:
 * Code reviewen
 * Een pull/merge request mergen
 
-> **Fun-fact: Hier komt alles samen dus gaan we het wederom niet meer voorzeggen! Dus koppie er bij want je moet zelf de commando's bepalen**
+**Fun-fact: Hier komt alles samen dus gaan we het wederom niet meer voorzeggen! Dus koppie er bij want je moet zelf de commando's bepalen**
