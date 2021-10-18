@@ -28,6 +28,13 @@
       "title": "7.5 Lokale repo updaten",
       "text": "7.5_opdracht.md"
     }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish":{
+      "text": "finish.md"
+    },
     "assets": {
       "host01": [
         {
