@@ -29,6 +29,10 @@
       {
         "course_id": "07_Platform_requests_bitbucket",
         "title": "7. Platform (Bitbucket)"
+      },
+      {
+        "course_id": "07_Platform_requests_gitlab",
+        "title": "7. Platform (Gitlab)"
       }
     ]
   }
